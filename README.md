@@ -1,3 +1,3 @@
 # My-project
 
-###socend-one
+am a small programer kishaw
